@@ -1,0 +1,85 @@
+{
+    "items": [],
+    "log": [
+        {
+            "date": "2026-10-12",
+            "type": "in",
+            "item": "i6",
+            "qty": 6,
+            "note": "Surat jalan SJ-0412",
+            "by": "admin"
+        },
+        {
+            "date": "2026-10-14",
+            "type": "out",
+            "item": "i1",
+            "qty": 8,
+            "note": "",
+            "by": "admin"
+        },
+        {
+            "date": "2026-10-15",
+            "type": "in",
+            "item": "i5",
+            "qty": 10,
+            "note": "",
+            "by": "pemilik"
+        },
+        {
+            "date": "2026-10-16",
+            "type": "in",
+            "item": "i3",
+            "qty": 12,
+            "note": "",
+            "by": "admin"
+        },
+        {
+            "date": "2026-10-16",
+            "type": "out",
+            "item": "i4",
+            "qty": 3,
+            "note": "",
+            "by": "admin"
+        },
+        {
+            "date": "2026-10-17",
+            "type": "out",
+            "item": "i2",
+            "qty": 6,
+            "note": "Pesanan online",
+            "by": "admin"
+        },
+        {
+            "date": "2026-10-17",
+            "type": "in",
+            "item": "i1",
+            "qty": 24,
+            "note": "",
+            "by": "admin"
+        },
+        {
+            "date": "2026-10-29",
+            "type": "in",
+            "item": "i1",
+            "qty": 7,
+            "note": "",
+            "by": "admin"
+        },
+        {
+            "date": "2026-10-29",
+            "type": "out",
+            "item": "i982b1dd3",
+            "qty": 1,
+            "note": "",
+            "by": "admin"
+        },
+        {
+            "date": "2026-10-29",
+            "type": "out",
+            "item": "i982b1dd3",
+            "qty": 2,
+            "note": "",
+            "by": "admin"
+        }
+    ]
+}
